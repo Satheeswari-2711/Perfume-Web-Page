@@ -1,0 +1,66 @@
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border-top-left-radius:20px ;
+
+}
+h2,ul,li{
+ 
+    display: inline;
+}
+li{
+    font-size: small;
+    color: grey;
+    padding: 5px;
+}
+
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+h2{
+    padding-right: 60%;    
+}
+
+
+.searchbar {
+    margin:20px 20px;
+    padding:10px;
+    text-align: center;
+}
+input{
+    padding: 5px;
+    width:600px;
+}
+
+.box1{
+    display: inline-block;
+    width: 230px;
+    height: 340px;
+    border: 2px solid black;
+    text-align: center;
+}
+.picture{
+   text-align: center;
+}
+ .box1:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;  
+}
+
+.about{
+    text-align: center;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/*perfume web page*/
+
+
